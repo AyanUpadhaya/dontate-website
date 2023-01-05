@@ -210,7 +210,8 @@
     font-size: 45px;
     font-weight: bolder;
     color:#FF5959;
-    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'lobster', Courier, monospace;
     margin-bottom: 24px;
 }
 .footer-description{
