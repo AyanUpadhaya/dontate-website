@@ -37,6 +37,7 @@
     border: 0;
     border-radius: 5px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* main section starts */
@@ -185,6 +186,8 @@
     padding: 15px;
     border:0;
     border-radius: 5px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 
 }
 .update-form .btn-primary{
@@ -212,7 +215,6 @@
     font-size: 45px;
     font-weight: bolder;
     color:#FF5959;
-    /* font-family: 'Dancing Script', cursive; */
     font-family: 'lobster', Courier, monospace;
     margin-bottom: 24px;
 }
