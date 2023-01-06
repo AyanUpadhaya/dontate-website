@@ -13,7 +13,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
-   
 }
 .content{
     text-align: center;
@@ -124,14 +123,30 @@
 }
 .donate-options{
     text-align: left;
-    padding: 10px;
+    padding: 20px;
 }
+
 .donate-title{
     font-weight: bold;
     font-size: 25px;
     margin-bottom: 20px;
     margin-top: 20px;
 }
+#opts-one{
+    background-color: #d4d2d2;
+    border-radius: 5px;
+}
+
+#opts-two{
+    background-color: #d4d2d2;
+    border-radius: 5px;
+}
+
+#opts-three{
+    background-color: #a7ef8b;
+    border-radius: 5px;
+}
+
 /* contribute-one */
 .contribute-one{
     margin: 130px 180px;
